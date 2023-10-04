@@ -8,7 +8,7 @@
 </head>
 <body>
 <h2>Home Page</h2>
-<p>in this app we are going to deploy project manually</p>
+<p>Cha hal aa</p>
 <a href="about.jsp">About</a>
 <a href="service.jsp">Service</a>
 </body>
