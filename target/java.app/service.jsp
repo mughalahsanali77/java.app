@@ -4,12 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>index</title>
+<title>service</title>
 </head>
 <body>
-<h2>Home Page</h2>
-<p>in this app we are going to deploy project manually</p>
-<a href="about.jsp">About</a>
-<a href="service.jsp">Service</a>
+    <h1>this is service file</h1>
+<a href="index.jsp">Index</a>
 </body>
 </html>
