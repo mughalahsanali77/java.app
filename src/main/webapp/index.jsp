@@ -9,7 +9,7 @@
 <body>
 <h2>Home Page</h2>
 <p>Testing jenkins</p>
-<a href="www.xhamster.com">Click me</a>
+
 <a href="about.jsp">About</a>
 <a href="service.jsp">Service</a>
 </body>
