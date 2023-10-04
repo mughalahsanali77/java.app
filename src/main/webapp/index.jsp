@@ -8,7 +8,8 @@
 </head>
 <body>
 <h2>Home Page</h2>
-<p>Cha hal aa</p>
+<p>Testing jenkins</p>
+<p>www.xhamster.com</p>
 <a href="about.jsp">About</a>
 <a href="service.jsp">Service</a>
 </body>
